@@ -1,0 +1,12 @@
+._react_from_wrap {
+  padding-top:20px;
+}
+
+.modal-body .error-text{
+  font-size: 15px;
+  color: red;
+}
+
+.spinner-border-sm {
+  margin-right: 10px;
+}

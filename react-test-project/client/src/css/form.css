@@ -1,0 +1,25 @@
+._react_form_content_inner .error-text{
+    font-size: 15px;
+    color: red;
+}
+
+.spinner-border-sm {
+    margin-right: 10px;
+}
+.btn_odal_open {
+    margin-top: 39px;
+    cursor: pointer;
+}
+.btn_odal_open span {
+    border: 1px solid #b5b5b5;
+    padding: 2px 8px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    margin-top: 35px;
+    background-color: #b5b5b5;
+}
+
+.inplace_edit .error-text{
+    font-size: 15px;
+    color: red;
+  }

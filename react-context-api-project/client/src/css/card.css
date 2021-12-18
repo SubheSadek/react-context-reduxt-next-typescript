@@ -1,0 +1,15 @@
+._react_card_content ._react_card_content_inner_icon{
+    cursor: pointer;
+    transition: .2s all ease;
+}
+
+._react_card_content ._react_card_content_inner_icon:hover{
+    cursor: pointer;
+    transform: scale(1.4);
+}
+._react_card_content_inner_icon_wrap{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    width: 100%;
+}

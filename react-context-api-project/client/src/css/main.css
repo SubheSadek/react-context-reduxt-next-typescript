@@ -1,0 +1,18 @@
+._alert_modal {
+    width: max-content;
+    position: absolute;
+    right: 20px;
+    top: 54px;
+}
+.close_btn {
+    border: none;
+    background: transparent;
+    font-size: 26px;
+}
+
+.card-group img {
+    width: 100px;
+    height: 100px;
+    padding-top:5px;
+    cursor: pointer;
+}
